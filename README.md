@@ -8,6 +8,6 @@ Original Plugin by annaclemens
 Installation Instructions:
 
 Go to your dalamud settings, and under the 'experimental tab' add the following link:<br/>
-https://raw.githubusercontent.com/kaerlath/RoleplayersToolbox\dalamud-plugins/main/repo.json
+https://raw.githubusercontent.com/kaerlath/RoleplayersToolbox/repo.json
 
 You should then be able to install it from your list.
